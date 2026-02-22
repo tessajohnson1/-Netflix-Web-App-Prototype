@@ -1,7 +1,7 @@
 # -Netflix-Web-App-Prototype
 A Netflix-inspired web application built as part of an interview task to demonstrate interactive UI behavior, hover-based video previews, and simulated streaming playback using modern frontend technologies.
 
-🚀 Project Overview
+# 🚀 Project Overview
 
 This project recreates key Netflix-like interactions such as hover previews, full-screen video playback, and smooth navigation flow, while maintaining a clean, responsive, and user-friendly interface.
 
