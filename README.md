@@ -7,73 +7,73 @@ This project recreates key Netflix-like interactions such as hover previews, ful
 
 The application displays a grid of mock movies where users can preview content on hover and watch videos in full-screen mode with seamless transitions.
 
-✨ Features
+# ✨ Features
 
-Responsive movie grid layout (desktop & mobile)
+> Responsive movie grid layout (desktop & mobile)
 
-Video preview plays on hover
+> Video preview plays on hover
 
-Ensures only one preview plays at a time
+> Ensures only one preview plays at a time
 
-Click on a movie to open full-screen playback
+> Click on a movie to open full-screen playback
 
-Transparent Back button appears on mouse movement
+> Transparent Back button appears on mouse movement
 
-Stops playback and returns to main page on back
+> Stops playback and returns to main page on back
 
-Hover preview resumes after returning
+> Hover preview resumes after returning
 
-Simulated real-time streaming using sample video links
+> Simulated real-time streaming using sample video links
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-Framework: React.js
+.Framework: React.js
 
-Styling: Tailwind CSS
+.Styling: Tailwind CSS
 
-State Management: Context API
+.State Management: Context API
 
-Video Streaming: Sample .mp4 / .m3u8 stream (simulated)
+.Video Streaming: Sample .mp4 / .m3u8 stream (simulated)
 
-🎯 Objective
+# 🎯 Objective
 
-To build an interactive Netflix-style prototype that demonstrates:
+> To build an interactive Netflix-style prototype that demonstrates:
 
-Advanced hover interactions
+> Advanced hover interactions
 
-Controlled video playback
+> Controlled video playback
 
-Clean state management
+> Clean state management
 
-Responsive UI design
+> Responsive UI design
 
-Realistic streaming behavior simulation
+> Realistic streaming behavior simulation
 
-📦 Installation & Setup
-# Clone the repository
+# 📦 Installation & Setup
+> Clone the repository
 git clone https://github.com/tessajohnson1/netflix-web-app-prototype.git
 
-# Navigate into the project directory
+> Navigate into the project directory
 cd netflix-web-app-prototype
 
-# Install dependencies
+> Install dependencies
 npm install
 
-# Start the development server
+> Start the development server
 npm start
 
 The app will run on http://localhost:3000
 
-📱 Responsiveness
+# 📱 Responsiveness
 
 The application is fully responsive and optimized for:
 
-Desktop
+> Desktop
 
-Tablet
+> Tablet
 
-Mobile devices
+> Mobile devices
 
-📹 Demo
+# 📹 Demo
 
 A demo video showcasing hover previews, playback, and navigation is included/submitted as part of the interview task.
