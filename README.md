@@ -51,7 +51,7 @@ The application displays a grid of mock movies where users can preview content o
 
 # 📦 Installation & Setup
 > Clone the repository
-git clone https://github.com/tessajohnson1/netflix-web-app-prototype.git
+git clone https://github.com/tessajohnson1/-Netflix-Web-App-Prototype
 
 > Navigate into the project directory
 cd netflix-web-app-prototype
