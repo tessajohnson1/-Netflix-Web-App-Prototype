@@ -74,7 +74,5 @@ The application is fully responsive and optimized for:
 
 > Mobile devices
 
-# 📹 Demo
 
-A demo video showcasing hover previews, playback, and navigation is included file section.
 
